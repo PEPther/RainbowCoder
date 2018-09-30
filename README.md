@@ -8,8 +8,4 @@ The song is a happy song.
 
 Nieuwe regel!
 
-tralaalala lest set
-est
-se
-t
-se se
+Gelukt VSCode werkend te krijgen met juiste GitHub
